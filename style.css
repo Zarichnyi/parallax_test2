@@ -1,0 +1,141 @@
+*{
+	margin:0;
+	padding:0;
+	list-style:none
+}
+body{
+	background:url(deadpool-wallpaper-yuiphone-pointing.jpg);
+	overflow-x:hidden;
+	height:4550px;
+	line-height:1.5;
+	font-size:14px;
+	font-family:Arial;
+}
+#container {
+    position: relative;
+}
+#parallax-bg1 {
+    z-index:3;
+    position:fixed;
+	width:940px;
+}
+#bg1-1 {
+    position:absolute;
+	top:-40px;
+	left:360px;
+}
+#bg1-2 {
+    position:absolute;
+	top:950px;
+	left:900px;
+}
+#bg1-3 {
+    position:absolute;
+	top:2000px;
+	left:400px;
+}
+#bg1-4 {
+    position:absolute;
+	top:3800px;
+	left:90px;
+}
+
+#bg1-5 {
+    position:absolute;
+	top:3100px;
+	left:200px;
+}
+
+#parallax-bg2 {
+    z-index:4;
+    position:fixed;
+	width:940px;
+}
+#parallax-bg3 {
+    z-index:6;
+    position:fixed;
+	width:940px;
+}
+
+#bg2-1 {
+    position:absolute;
+	top:200px;
+	left:0px;
+    transform: rotate(30deg);
+}
+#bg2-2 {
+    position:absolute;
+	top:200px;
+	left:900px;
+    transform: rotate(30deg);
+    width: 220px;
+}
+#bg2-3 {
+    position:absolute;
+	top:1200px;
+	left:80px;
+    transform: rotate(30deg);
+    width: 200px;
+}
+#bg2-4 {
+    position:absolute;
+	top:1800px;
+	left:1300px;
+    transform: rotate(220deg);
+    width: 250px;
+}
+#bg2-5 {
+    position:absolute;
+	top:2400px;
+	left:860px;
+    width: 250px;
+}
+#bg2-6 {
+    position:absolute;
+	top:2400px;
+	left:1300px;
+    transform: rotate(220deg);
+}
+#bg2-7 {
+    position:absolute;
+	top:3500px;
+	left:300px;
+    width: 150px;
+}
+#bg2-8 {
+    position:absolute;
+	top:3400px;
+	left:800px;
+    width: 150px;
+}
+#bg2-9 {
+    position:absolute;
+	top:3200px;
+	left:800px;
+    width: 150px;
+}
+#bg2-10 {
+    position:absolute;
+	top:4000px;
+	left:800px;
+    width: 250px;
+}
+#bg2-11 {
+    position:absolute;
+	top:4200px;
+	left:1000px;
+    width: 250px;
+}
+
+#gilzi1 {
+    position:absolute;
+	top:4600px;
+	left:1000px;
+    width: 500px;
+}
+#gilzi2 {
+    position:absolute;
+	top:4600px;
+	left:500px;
+    width:500px;
+}
